@@ -1,0 +1,17 @@
+{
+"TESTMODE": true,
+"PRIVATE_KEY": "",
+"GAS_LIMIT": 5000000,
+"GAS_PRICE": 10,
+"INPUT_FILE": "contracts.xlsx",
+"NODES": {
+    "main": "https://bsc-dataseed.binance.org/",
+    "test": "https://data-seed-prebsc-1-s1.binance.org:8545/"
+}
+
+}
+
+
+
+
+
